@@ -1,6 +1,6 @@
 name: greenvilleink
 favicon: null
-layout_spectrum: 0.7626859354786575
+layout_spectrum: 0.37011
 typography_spectrum: 0.317725169705227
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#f9f8f3'
+    - '#020305'
+    - '#182023'
+    - '#aca49a'
+    - '#5f6867'
   brandStrength: 0.6744901386555284
   lightness: 0.03848549164831638
   saturation: 0.028032860718667507
