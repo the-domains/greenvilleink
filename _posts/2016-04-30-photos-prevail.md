@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: "Words like to play too. And if you're not offended by the ultimatum or your motivated by the call to action.. or that special place where your tshirts reside is craving this athletic heather, super comfortable work of wearable art. Then there's a link in the bio (truth: the link is there either way)"
-datePublished: '2016-04-30T19:35:58.664Z'
-dateModified: '2016-04-30T19:35:43.988Z'
+datePublished: '2016-04-30T20:50:45.405Z'
+dateModified: '2016-04-30T20:50:05.859Z'
 author:
   - name: ''
     url: ''
@@ -20,8 +19,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
-_type: Blurb
+starred: true
+url: photos-prevail/index.html
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/087a982a-1232-4118-8a0e-ed098b343e17.jpg)
