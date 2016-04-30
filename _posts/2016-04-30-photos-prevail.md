@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Words like to play too. And if you're not offended by the ultimatum or your motivated by the call to action.. or that special place where your tshirts reside is craving this athletic heather, super comfortable work of wearable art. Then there's a link in the bio (truth: the link is there either way)"
-datePublished: '2016-04-30T20:50:45.405Z'
-dateModified: '2016-04-30T20:50:05.859Z'
+datePublished: '2016-04-30T20:58:06.720Z'
+dateModified: '2016-04-30T20:57:59.483Z'
 author:
   - name: ''
     url: ''
@@ -30,4 +30,3 @@ _type: WebPage
 # Find The Adventure
 
 Words like to play too. And if you're not offended by the ultimatum or your motivated by the call to action.. or that special place where your tshirts reside is craving this athletic heather, super comfortable work of wearable art. Then there's a link in the bio (truth: the link is there either way)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b17602b4-363b-4b7a-86f6-25b7c09b172b.jpg)
