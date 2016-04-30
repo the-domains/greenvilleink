@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: When Words Fail... Photos Prevail
-datePublished: '2016-04-30T19:29:45.598Z'
-dateModified: '2016-04-30T19:29:42.156Z'
+datePublished: '2016-04-30T20:43:51.144Z'
+dateModified: '2016-04-30T20:43:36.265Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-when-words-fail-photos-prevail.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-when-words-fail-photos-prevail.md
-published: true
 url: when-words-fail-photos-prevail/index.html
 _type: Article
 
