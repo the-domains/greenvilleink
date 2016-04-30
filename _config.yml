@@ -1,9 +1,7 @@
-favicon: null
 name: greenvilleink
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.317725169705227
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Kenneth Lloyd Tshirts
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.02803286071866751
-  brandStrength: 0.6744901386555284
-  rhythmicContrast: 0.3986330912448466
   brandColors:
     - '#f9f8f3'
     - '#020305'
     - '#182023'
     - '#aca49a'
     - '#5f6867'
+  brandStrength: 0.6744901386555284
   lightness: 0.03848549164831638
-typography_spectrum: 0.317725169705227
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.02803286071866751
+  rhythmicContrast: 0.3986330912448466
+purpose: []
