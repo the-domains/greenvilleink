@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.3808511
+  saturation: 0.7425532
   brandStrength: 0.8297873
-  lightness: 0.6638298
+  lightness: 0.7680851
   brandColors:
     - '#FAF9F7'
     - '#241E20'
     - '#72879F'
     - '#BFB8B3'
     - '#CC945B'
-  rhythmicContrast: 0.3723404
+  rhythmicContrast: 0.5702128
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: greenville ink
+favicon: null
 opengraph:
   image: null
   type: null
