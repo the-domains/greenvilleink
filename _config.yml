@@ -1,7 +1,7 @@
 name: greenville ink
 favicon: null
-layout_spectrum: 0.96505
-typography_spectrum: 0.74849
+layout_spectrum: 0.88567
+typography_spectrum: 0.59664
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#BFB8B3'
     - '#CC945B'
   brandStrength: 0.8125
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
