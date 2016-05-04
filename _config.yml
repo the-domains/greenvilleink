@@ -1,41 +1,41 @@
-name: greenville ink
-favicon: null
-layout_spectrum: 0.74245
-typography_spectrum: 0.59664
+title: Greenville Ink
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Greenville Ink
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  lightness: 1
+  brandColors:
+    - '#FAF9F7'
+    - '#241E20'
+    - '#72879F'
+    - '#BFB8B3'
+    - '#CC945B'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: greenville ink
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fdfcfc'
-    - '#2a2526'
-    - '#a77154'
-    - '#4a5c7e'
-    - '#e3cab1'
-  brandStrength: 0.75
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.59664
+layout_spectrum: 0.74245
