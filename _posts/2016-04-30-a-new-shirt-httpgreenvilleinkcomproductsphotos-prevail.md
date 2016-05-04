@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://greenvilleink.com/products/photos-prevail'
-datePublished: '2016-05-04T13:32:59.472Z'
-dateModified: '2016-05-04T13:32:38.970Z'
+datePublished: '2016-05-04T19:30:46.832Z'
+dateModified: '2016-05-04T13:33:06.408Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-30-a-new-shirt-httpgreenvilleinkcomproductsphotos-prevail.md
-published: true
 authors: []
 publisher:
   name: null
