@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Words like to play too. And if you're not offended by the ultimatum or your motivated by the call to action.. or that special place where your tshirts reside is craving this athletic heather, super comfortable work of wearable art. Then there's a link in the bio (truth: the link is there either way)"
-datePublished: '2016-05-05T04:46:32.063Z'
-dateModified: '2016-05-05T04:46:19.604Z'
+datePublished: '2016-05-07T16:23:44.307Z'
+dateModified: '2016-05-05T13:29:17.985Z'
 author:
   - name: ''
     url: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: photos-prevail/index.html
 _type: Article
 
