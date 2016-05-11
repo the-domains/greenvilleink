@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T02:48:18.611Z'
-dateModified: '2016-05-11T02:48:11.899Z'
+datePublished: '2016-05-11T15:31:00.462Z'
+dateModified: '2016-05-11T15:29:48.560Z'
 title: "It's a thing"
 author:
   - name: ''
@@ -24,4 +24,6 @@ _type: Blurb
 
 ---
 # It's a thing
+
+of beauty
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/692e422a-7a24-4437-96fe-4c5eb26298fb.jpg)
