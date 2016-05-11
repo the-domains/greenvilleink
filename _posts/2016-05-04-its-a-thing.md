@@ -1,15 +1,26 @@
 ---
-title: "It's a thing"
-datePublished: '2016-05-04T21:12:43.370Z'
-dateModified: '2016-05-04T16:13:47.292Z'
-author: []
-description: ''
-starred: false
-sourcePath: _posts/2016-05-04-its-a-thing.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-11T02:48:18.611Z'
+dateModified: '2016-05-11T02:48:11.899Z'
+title: "It's a thing"
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-04-its-a-thing.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # It's a thing
