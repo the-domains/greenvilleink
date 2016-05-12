@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Definitely Not For '
-datePublished: '2016-05-12T00:27:58.043Z'
-dateModified: '2016-05-12T00:27:28.428Z'
+datePublished: '2016-05-12T01:09:10.542Z'
+dateModified: '2016-05-12T00:27:59.757Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-ladies-v-in-indigo.md
